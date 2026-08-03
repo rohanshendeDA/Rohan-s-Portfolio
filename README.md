@@ -9,13 +9,13 @@
 ### Dashboard Navigation
 ![](images/Home.png)
 ### Executive Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Executive%20Dashboard.png)
+![](images/Executive_Dashboard.png)
 ### Customer Analytics
-![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Customer%20Analytics.png)
+![](images/Customer_Analytics.png)
 ### Product Analytics
-![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Product%20analytics.png)
+![](images/Product_analytics.png)
 ### Logistics, Payments & Reviews
-![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Logistics%2CPayments%20%26%20Review.png)
+![](images/Logistics_Payments_&_Review.png)
 
 
 # [Project 2: CRM Analytics Dashboard](https://github.com/rohanshendeDA/Insurance-Analytics)
@@ -25,9 +25,9 @@
   * Data Source: A small anonymized extract of organizational insurance data provided during my office trainee program, including policy, customer, claims,            premium, branch, and sales-related information.
 
 ### Branch Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/Insurance-Analytics/blob/main/Branch%20Dashboard.png)
+![](images/Home.png)
 ### Policy Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/Insurance-Analytics/blob/main/Policy%20Dashboard.png)    
+![](images/Home.png) 
 
 
 # [Project 3: CRM Analytics Dashboard](https://github.com/rohanshendeDA/CRM-Analytics)
@@ -40,9 +40,9 @@
   This is a project I did to provide a comprehensive view of insurance operations.
   
 ### Lead Analysis Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/CRM-Analytics/blob/main/Lead%20Analysis.png)
+![](images/Home.png)
 ### Opportunity Analysis Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/CRM-Analytics/blob/main/Opportunity%20Analysis.png)
+![](images/Home.png)
 
 
 
