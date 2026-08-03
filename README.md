@@ -23,12 +23,11 @@
   * Developed an end-to-end Insurance Analytics solution to analyze policy performance, premium growth, claims, customer demographics, branch operations, and          sales opportunities.
   * Built interactive dashboards with KPIs and visualizations to monitor operational performance and support strategic business decisions.
   * Data Source: A small anonymized extract of organizational insurance data provided during my office trainee program, including policy, customer, claims,            premium, branch, and sales-related information.
-  * 
-### Lead Analysis Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/CRM-Analytics/blob/main/Lead%20Analysis.png)
-### Opportunity Analysis Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/CRM-Analytics/blob/main/Opportunity%20Analysis.png)
 
+### Branch Dashboard
+![Dashboard Preview](https://github.com/rohanshendeDA/Insurance-Analytics/blob/main/Branch%20Dashboard.png)
+### Policy Dashboard
+![Dashboard Preview](https://github.com/rohanshendeDA/Insurance-Analytics/blob/main/Policy%20Dashboard.png)    
 
 
 # [Project 3: CRM Analytics Dashboard](https://github.com/rohanshendeDA/CRM-Analytics)
@@ -40,10 +39,10 @@
   * Data Source: A small anonymized extract of organizational CRM data provided during my office trainee program, containing lead, opportunity, account, and sales     pipeline information.
   This is a project I did to provide a comprehensive view of insurance operations.
   
-### Branch Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/Insurance-Analytics/blob/main/Branch%20Dashboard.png)
-### Policy Dashboard
-![Dashboard Preview](https://github.com/rohanshendeDA/Insurance-Analytics/blob/main/Policy%20Dashboard.png)
+### Lead Analysis Dashboard
+![Dashboard Preview](https://github.com/rohanshendeDA/CRM-Analytics/blob/main/Lead%20Analysis.png)
+### Opportunity Analysis Dashboard
+![Dashboard Preview](https://github.com/rohanshendeDA/CRM-Analytics/blob/main/Opportunity%20Analysis.png)
 
 
 
