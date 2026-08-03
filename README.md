@@ -25,9 +25,9 @@
   * Data Source: A small anonymized extract of organizational insurance data provided during my office trainee program, including policy, customer, claims,            premium, branch, and sales-related information.
 
 ### Branch Dashboard
-![](images/Home.png)
+![](images/Branch_Dashboard.png)
 ### Policy Dashboard
-![](images/Home.png) 
+![](images/Policy_Dashboard.png) 
 
 
 # [Project 3: CRM Analytics Dashboard](https://github.com/rohanshendeDA/CRM-Analytics)
@@ -40,9 +40,9 @@
   This is a project I did to provide a comprehensive view of insurance operations.
   
 ### Lead Analysis Dashboard
-![](images/Home.png)
+![](images/Lead_Analysis.png)
 ### Opportunity Analysis Dashboard
-![](images/Home.png)
+![](images/Opportunity_Analysis.png)
 
 
 
