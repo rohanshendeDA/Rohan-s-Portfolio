@@ -5,7 +5,8 @@
   * Developed an interactive Power BI dashboard using the Brazilian E-Commerce Public Dataset by Olist to analyze sales performance, customer behavior, product           trends, logistics, payments, and customer reviews.
   * Utilized Power Query, DAX, and data modeling to create dynamic KPIs and interactive dashboards covering executive, customer, product, and logistics analytics. 
   * Data Source: Public dataset from Kaggle – Brazilian E-Commerce Public Dataset by Olist, containing customer, order, product, seller, payment, review, and             geolocation data.
-    Dashboard Navigation
+
+Dashboard Navigation
 ![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Home.png)
 Executive Dashboard
 ![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Executive%20Dashboard.png)
