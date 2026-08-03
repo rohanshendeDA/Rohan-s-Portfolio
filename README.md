@@ -7,7 +7,7 @@
   * Data Source: Public dataset from Kaggle – Brazilian E-Commerce Public Dataset by Olist, containing customer, order, product, seller, payment, review, and             geolocation data.
 
 ### Dashboard Navigation
-![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Home.png)
+![](imaages/Home.png)
 ### Executive Dashboard
 ![Dashboard Preview](https://github.com/rohanshendeDA/Brazilian-E-Commerce-by-Olist-Data-Analysis/blob/main/Executive%20Dashboard.png)
 ### Customer Analytics
